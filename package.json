@@ -1,0 +1,16 @@
+{
+  "name": "snooze-backend",
+  "version": "1.0.0",
+  "description": "a backend application for snooze chat",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Snowy",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "firebase": "^9.6.2"
+  }
+}
